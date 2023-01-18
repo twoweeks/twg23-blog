@@ -1,0 +1,48 @@
+{
+  "name": "twg-blog",
+  "version": "23.0.0",
+  "description": "",
+  "scripts": {
+    "clear": "del-cli ./dist",
+    "build": "npm run clear && eleventy",
+    "watch": "npm run clear && eleventy --watch",
+    "start": "npm run clear && eleventy --serve",
+    "debug": "DEBUG=* eleventy",
+    "bench": "DEBUG=Eleventy:Benchmark* eleventy",
+    "lint": "eslint *.js",
+    "prettier": "prettier --write .",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/11ty/eleventy-base-blog.git"
+  },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11ty/eleventy-base-blog/issues"
+  },
+  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "1.0.2",
+    "@11ty/eleventy-navigation": "0.3.5",
+    "@11ty/eleventy-plugin-rss": "1.2.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "4.2.0",
+    "@aloskutov/eleventy-plugin-external-links": "1.4.4",
+    "@types/eslint": "8.4.10",
+    "@types/html-minifier": "4.0.2",
+    "del-cli": "5.0.0",
+    "eslint": "8.32.0",
+    "eslint-config-prettier": "8.6.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "gh-pages": "4.0.0",
+    "html-minifier": "4.0.0",
+    "markdown-it": "13.0.1",
+    "markdown-it-anchor": "8.6.6",
+    "prettier": "2.8.3"
+  }
+}
