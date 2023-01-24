@@ -1,8 +1,10 @@
 const fs = require('fs');
 
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginNavigation = require('@11ty/eleventy-navigation');
-const externalLinks = require('@aloskutov/eleventy-plugin-external-links');
+const pluginExternalLinks = require('@aloskutov/eleventy-plugin-external-links');
+
 
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
@@ -10,10 +12,10 @@ const htmlmin = require('html-minifier');
 
 module.exports = function (eleventyConfig) {
   // Add plugins
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginNavigation);
-
-  eleventyConfig.addPlugin(externalLinks);
+  eleventyConfig.addPlugin(pluginExternalLinks);
 
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');

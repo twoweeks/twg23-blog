@@ -6,20 +6,20 @@
     <title>{% if title %}{{ title }} – {% endif %}{{ metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
 
-    <link rel="shortcut icon" href="{{ '/img/favicon.png' | addTimestamp | url }}" />
+    <link rel="shortcut icon" href="{{ '/img/favicon.png' | addTimestamp }}" />
 
-    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.feed.path }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path }}" type="application/json" title="{{ metadata.title }}">
 
-    <link rel="stylesheet" href="{{ '/styles/index.css' | addTimestamp | url }}">
-    <link rel="stylesheet" href="{{ '/styles/main.css' | addTimestamp | url }}">
+    <link rel="stylesheet" href="{{ '/styles/index.css' | addTimestamp }}">
+    <link rel="stylesheet" href="{{ '/styles/main.css' | addTimestamp }}">
   </head>
   <body>
     <div class="container">
       <header class="header">
         <h1 class="header__title"><a href="/" rel="home">{{ metadata.title }}</a></h1>
         {# <div class="header__image" style="--im-w: 1080px; --im-h: 400px;">
-          <a href="/" rel="home"><img width="1080" height="400" src="{{ '/img/header/header.jpg' | addTimestamp | url }}" srcset="{{ '/img/header/header.jpg' | addTimestamp | url }}, {{ '/img/header/header-2x.jpg' | addTimestamp | url }} 2x" alt="{{ metadata.title }}"></a>
+          <a href="/" rel="home"><img width="1080" height="400" src="{{ '/img/header/header.jpg' | addTimestamp }}" srcset="{{ '/img/header/header.jpg' | addTimestamp }}, {{ '/img/header/header-2x.jpg' | addTimestamp }} 2x" alt="{{ metadata.title }}"></a>
         </div> #}
       </header>
 

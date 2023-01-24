@@ -5,7 +5,7 @@ is_page: true
 page_id: rules
 ---
 
-If you are not a Russian-speaking user, you can use [this link](https://translate.google.com/translate?hl=ru&amp;tl=en&amp;u={{ metadata.url }}{{ page.url | url }}) to view this page. The Russian version is basic, because machine translation can distort the essence of some rules. Sorry!
+If you are not a Russian-speaking user, you can use [this link](https://translate.google.com/translate?hl=ru&amp;tl=en&amp;u={{ metadata.url }}{{ page.url }}) to view this page. The Russian version is basic, because machine translation can distort the essence of some rules. Sorry!
 
 <hr />
 
