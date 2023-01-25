@@ -10,6 +10,12 @@
     "url": "https://23.twoweeks.ru"
   },
   "items": [{
+      "id": "https://23.twoweeks.ru/posts/03-perenos/",
+      "url": "https://23.twoweeks.ru/posts/03-perenos/",
+      "title": "Дата старта конкурса перенесена на 3 февраля",
+      "content_html": "<p>В связи с организационными причинами.</p>\n<p>Прошу прощения у всех участников, кому это доставило неудобства.</p>\n",
+      "date_published": "2023-01-25T00:00:00Z"
+    },{
       "id": "https://23.twoweeks.ru/posts/02-donations/",
       "url": "https://23.twoweeks.ru/posts/02-donations/",
       "title": "Отчёты по пожертвованиям",
@@ -19,7 +25,7 @@
       "id": "https://23.twoweeks.ru/posts/01-start/",
       "url": "https://23.twoweeks.ru/posts/01-start/",
       "title": "Объявление даты конкурса",
-      "content_html": "<p>Начало конкурса - 27 января 2023 года, в 12:00 МСК, вместе с объявлением темы.</p>\n<p>Регламент конкурса можно <a href=\"https://23.twoweeks.ru/pages/rules\">почитать здесь</a>.</p>\n<p>Актуальный трипкод - <span class=\"tripcode\">!MBoXQBAV7k</span> (старый почему-то сломался).</p>\n",
+      "content_html": "<p>Начало конкурса - <s>27 января</s> 03 февраля 2023 года, в 12:00 МСК, вместе с объявлением темы.</p>\n<p>Регламент конкурса можно <a href=\"https://23.twoweeks.ru/pages/rules\">почитать здесь</a>.</p>\n<p>Актуальный трипкод - <span class=\"tripcode\">!MBoXQBAV7k</span> (старый почему-то сломался).</p>\n",
       "date_published": "2023-01-15T00:00:00Z"
     }
   ]
