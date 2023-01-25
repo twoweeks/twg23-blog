@@ -17,10 +17,10 @@
   <body>
     <div class="container">
       <header class="header">
-        <h1 class="header__title"><a href="/" rel="home">{{ metadata.title }}</a></h1>
-        {# <div class="header__image" style="--im-w: 1080px; --im-h: 400px;">
-          <a href="/" rel="home"><img width="1080" height="400" src="{{ '/img/header/header.jpg' | addTimestamp }}" srcset="{{ '/img/header/header.jpg' | addTimestamp }}, {{ '/img/header/header-2x.jpg' | addTimestamp }} 2x" alt="{{ metadata.title }}"></a>
-        </div> #}
+        <h1 class="header__title hidden"><a href="/" rel="home">{{ metadata.title }}</a></h1>
+        <div class="header__image" style="--im-w: 1080px; --im-h: 400px;">
+          <a href="/" rel="home"><img width="1080" height="400" src="{{ '/img/header/header.webp' | addTimestamp }}" srcset="{{ '/img/header/header.webp' | addTimestamp }}, {{ '/img/header/header-2x.webp' | addTimestamp }} 2x" alt="{{ metadata.title }}"></a>
+        </div>
       </header>
 
       <main class="content {% if is_page %}page{% endif %}">
