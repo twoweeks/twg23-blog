@@ -28,11 +28,16 @@ body {
 .header__title a {
   text-decoration: none;
 }
-.header__title a:hover, .header__title a:focus {
+.header__title a:hover,
+.header__title a:focus {
   text-decoration: underline;
 }
 
-.header__image a,
+.header__image a {
+  display: flex;
+  overflow: hidden;
+}
+
 .header__image img {
   display: block;
 }
@@ -42,6 +47,24 @@ body {
   height: calc(100% / (var(--im-w) / var(--im-h)));
 
   object-fit: contain;
+}
+
+@media screen and (max-width: 768px) {
+  .header__image a {
+    justify-content: center;
+    align-items: flex-start;
+    height: 150px;
+  }
+
+  .header__image img {
+    width: 160%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .header__image a {
+    height: 100px;
+  }
 }
 
 .content {
