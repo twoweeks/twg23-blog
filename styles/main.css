@@ -361,3 +361,8 @@ body {
 .tripcode {
   color: #228854;
 }
+
+.poem p {
+  margin: 0;
+  padding: 0;
+}
