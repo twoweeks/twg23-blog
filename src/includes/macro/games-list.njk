@@ -4,7 +4,7 @@
     <div class="game">
       <picture class="game__picture" {% if not gameInfo.screenshot %}data-empty{% endif %}>
         {% if gameInfo.screenshot %}
-        <a href="{{ gameInfo.screenshot }}">
+        <a href="{{ gameInfo.screenshot }}" data-lightbox="game" data-title="{{ gameInfo.title }}">
           <img src="{{ gameInfo.screenshot }}" alt="{{ gameInfo.title }}" loading="lazy">
         </a>
         {% else %}
