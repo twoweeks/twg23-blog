@@ -5,12 +5,24 @@
 	
 	<link href="https://23.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://23.twoweeks.ru"/>
-	<updated>2023-02-11T00:00:00Z</updated>
+	<updated>2023-02-16T00:00:00Z</updated>
 	<id>https://23.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Дополнительные дни!</title>
+		<link href="https://23.twoweeks.ru/posts/06-extra-days/"/>
+		<updated>2023-02-16T00:00:00Z</updated>
+		<id>https://23.twoweeks.ru/posts/06-extra-days/</id>
+		<content type="html">&lt;p&gt;Традиционно, срок сдачи финальных версий продлён, чтобы ваши игры стали ещё лучше!&lt;/p&gt;
+&lt;p&gt;Старый срок - 17 февраля, 23:59 МСК.&lt;/p&gt;
+&lt;p&gt;Новый срок - &lt;strong&gt;19 февраля, 20:00 МСК&lt;/strong&gt; (воскресенье).&lt;/p&gt;
+&lt;p&gt;Также, открыта &lt;a href=&quot;https://23.twoweeks.ru/pages/send-form/&quot;&gt;форма отправки финальных версий&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Демоверсии</title>
@@ -20,11 +32,11 @@
 		<content type="html">
 &lt;p&gt;Всего на конкурс было отправлено 55 проектов. Их авторы проходят этап регистрации, и теперь должны будут сделать финальные версии своих игр.&lt;/p&gt;
 
-&lt;p&gt;Срок окончания приёма финальных версий - &lt;strong&gt;17 февраля, 23:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
+&lt;p&gt;Срок окончания приёма финальных версий - &lt;s&gt;&lt;strong&gt;17 февраля, 23:59 МСК&lt;/strong&gt;&lt;/s&gt; включительно.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UPD:&lt;/strong&gt; Срок сдачи финальных версий &lt;a href=&quot;https://23.twoweeks.ru/posts/06-extra-days/&quot;&gt;продлён&lt;/a&gt; до &lt;strong&gt;19 февраля, 20:00 МСК&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Девлоги своих проектов можно вести в канале #devlog нашего &lt;a href=&quot;https://discord.gg/FNFnJVCZA9&quot;&gt;Discord-сервера&lt;/a&gt;, в &lt;a href=&quot;https://t.me/gdchat&quot;&gt;Telegram&lt;/a&gt;-канале, а также в треде конкурса в &lt;a href=&quot;https://2ch.hk/gd&quot;&gt;/gd/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;⚠️ Важный момент - ввиду отсуствия времени, игры &lt;strong&gt;НЕ ПРОВЕРЯЛИСЬ&lt;/strong&gt; организатором на работоспособность и безопасность. Запускайте их с осторожностью.&lt;/p&gt;
 
 &lt;p style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;a href=&quot;https://disk.yandex.ru/d/H8y-yOED8FvwZw&quot;&gt;&amp;gt;&amp;gt;&amp;gt; СКАЧАТЬ ВСЕ ИГРЫ &amp;lt;&amp;lt;&amp;lt;&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 
