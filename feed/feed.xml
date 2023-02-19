@@ -18,7 +18,7 @@
 		<updated>2023-02-19T00:00:00Z</updated>
 		<id>https://23.twoweeks.ru/posts/07-final/</id>
 		<content type="html">
-&lt;p&gt;Всего на конкурс был отправлен 31 проект.&lt;/p&gt;
+&lt;p&gt;Всего на конкурс был отправлен 32 проекта.&lt;/p&gt;
 
 &lt;p&gt;Теперь участникам и судьям даётся время поиграть в финальные версии до &lt;strong&gt;24 февраля&lt;/strong&gt; включительно, чтобы составить своё мнение. Затем им будут отправлены анкеты для голосования - проголосовать надо будет до &lt;strong&gt;26 февраля, 23:59 МСК&lt;/strong&gt; включительно.&lt;/p&gt;
 
@@ -916,6 +916,31 @@
         &lt;/p&gt;
         
           &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/SBi2062iVVkX0w&quot; target=&quot;_blank&quot;&gt;
+            &lt;span&gt;скачать&lt;/span&gt;
+          &lt;/a&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;game&quot;&gt;
+      &lt;picture class=&quot;game__picture&quot;&gt;
+        
+        &lt;a href=&quot;https://i.vas3k.club/7dcdfe9d378f3097a969338095ca60dd065e2fd0916617978b23cd984beff124.jpg&quot; data-lightbox=&quot;game&quot; data-title=&quot;Berlin, Meine Liebe!&quot;&gt;
+          &lt;img src=&quot;https://i.vas3k.club/7dcdfe9d378f3097a969338095ca60dd065e2fd0916617978b23cd984beff124.jpg&quot; alt=&quot;Berlin, Meine Liebe!&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/a&gt;
+        
+      &lt;/picture&gt;
+      &lt;div class=&quot;game__info&quot;&gt;
+        &lt;h3 class=&quot;game__info__title&quot;&gt;Berlin, Meine Liebe!&lt;/h3&gt;
+        
+        &lt;p class=&quot;game__info__genre&quot;&gt;
+          Жанра нет
+        &lt;/p&gt;
+        &lt;p class=&quot;game__info__description&quot;&gt;
+          Описания нет
+        &lt;/p&gt;
+        
+          &lt;a class=&quot;game__info__link&quot; href=&quot;https://disk.yandex.ru/d/WPmzanWZqDnZuw&quot; target=&quot;_blank&quot;&gt;
             &lt;span&gt;скачать&lt;/span&gt;
           &lt;/a&gt;
         
