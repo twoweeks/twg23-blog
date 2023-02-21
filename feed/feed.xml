@@ -5,12 +5,22 @@
 	
 	<link href="https://23.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://23.twoweeks.ru"/>
-	<updated>2023-02-19T00:00:00Z</updated>
+	<updated>2023-02-21T00:00:00Z</updated>
 	<id>https://23.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Объявление для участников</title>
+		<link href="https://23.twoweeks.ru/posts/08-message/"/>
+		<updated>2023-02-21T00:00:00Z</updated>
+		<id>https://23.twoweeks.ru/posts/08-message/</id>
+		<content type="html">&lt;p&gt;Всем участникам - большая просьба проверить почту, в том числе спам.&lt;/p&gt;
+&lt;p&gt;Отправлена ссылка на небольшой опрос, а также персональный код (считайте его вашим паролем), который надо будет использовать в дальнейшем при голосовании за игры.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Финальные версии</title>

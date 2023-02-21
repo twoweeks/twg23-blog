@@ -10,6 +10,12 @@
     "url": "https://23.twoweeks.ru"
   },
   "items": [{
+      "id": "https://23.twoweeks.ru/posts/08-message/",
+      "url": "https://23.twoweeks.ru/posts/08-message/",
+      "title": "Объявление для участников",
+      "content_html": "<p>Всем участникам - большая просьба проверить почту, в том числе спам.</p>\n<p>Отправлена ссылка на небольшой опрос, а также персональный код (считайте его вашим паролем), который надо будет использовать в дальнейшем при голосовании за игры.</p>\n",
+      "date_published": "2023-02-21T00:00:00Z"
+    },{
       "id": "https://23.twoweeks.ru/posts/07-final/",
       "url": "https://23.twoweeks.ru/posts/07-final/",
       "title": "Финальные версии",
