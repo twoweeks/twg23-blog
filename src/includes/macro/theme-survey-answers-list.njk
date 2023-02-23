@@ -6,7 +6,7 @@
 
         {% if answer.text %}
           {% for textParagraph in answer.text %}
-            <p style="margin-top: 0.5em" {% if answer.spoiler %}class="spoiler"{% endif %}><span>{{ answer.text }}</span></p>
+            <p style="margin-top: 0.5em" {% if answer.spoiler %}class="spoiler"{% endif %}><span>{{ textParagraph }}</span></p>
           {% endfor %}
         {% else %}
           <p>Участник не отправил ответ</p>
