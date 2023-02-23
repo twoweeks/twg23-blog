@@ -1,0 +1,17 @@
+{% macro themeSurveyAnswersList(answersArray) %}
+  <ul>
+    {% for answer in answersArray %}
+      <li style="margin-top: 1em">
+        <p style="margin-bottom: 0"><strong>{{ answer.game }}</strong></p>
+
+        {% if answer.text %}
+          {% for textParagraph in answer.text %}
+            <p style="margin-top: 0.5em" {% if answer.spoiler %}class="spoiler"{% endif %}><span>{{ answer.text }}</span></p>
+          {% endfor %}
+        {% else %}
+          <p>Участник не отправил ответ</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endmacro %}

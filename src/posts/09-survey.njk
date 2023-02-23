@@ -1,0 +1,13 @@
+---
+title: Результаты опроса
+date: 2023-02-24
+layout: layouts/post.njk
+---
+
+<p>Публикуем ответы на опрос участников о соотвествии их игр теме конкурса.</p>
+
+<p>Формы для голосования будут отправлены сегодня.</p>
+
+{% from "macro/theme-survey-answers-list.njk" import themeSurveyAnswersList %}
+
+{{ themeSurveyAnswersList(theme_survey) }}
