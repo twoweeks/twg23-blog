@@ -10,6 +10,12 @@
     "url": "https://23.twoweeks.ru"
   },
   "items": [{
+      "id": "https://23.twoweeks.ru/posts/10-vote-start/",
+      "url": "https://23.twoweeks.ru/posts/10-vote-start/",
+      "title": "Голосование началось",
+      "content_html": "<p><strong>ФОРМА ОТПРАВКИ ОЦЕНОК - <a href=\"https://forms.gle/CjYjtJti6DrzrsUA7\">forms.gle/CjYjtJti6DrzrsUA7</a></strong></p>\n<p>Проголосовать нужно до <strong>27 февраля, 23:59 МСК</strong> включительно (срок продлён на день).</p>\n<p>Код для голосования был отправлен всем участникам 20/21 февраля (одновременно с <a href=\"https://23.twoweeks.ru/posts/09-survey/\">опросом</a>) на почты, которые были указаны при отправке финальных версий. Если не можете найти - проверяйте папку &quot;спам&quot;. Если нет и там - пишите организатору.</p>\n<p>Почта организатора – <a href=\"mailto:op@gdjams.ru\">op@gdjams.ru</a>.</p>\n",
+      "date_published": "2023-02-25T00:00:00Z"
+    },{
       "id": "https://23.twoweeks.ru/posts/09-survey/",
       "url": "https://23.twoweeks.ru/posts/09-survey/",
       "title": "Результаты опроса",

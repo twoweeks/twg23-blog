@@ -5,12 +5,24 @@
 	
 	<link href="https://23.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://23.twoweeks.ru"/>
-	<updated>2023-02-24T00:00:00Z</updated>
+	<updated>2023-02-25T00:00:00Z</updated>
 	<id>https://23.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Голосование началось</title>
+		<link href="https://23.twoweeks.ru/posts/10-vote-start/"/>
+		<updated>2023-02-25T00:00:00Z</updated>
+		<id>https://23.twoweeks.ru/posts/10-vote-start/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;ФОРМА ОТПРАВКИ ОЦЕНОК - &lt;a href=&quot;https://forms.gle/CjYjtJti6DrzrsUA7&quot;&gt;forms.gle/CjYjtJti6DrzrsUA7&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Проголосовать нужно до &lt;strong&gt;27 февраля, 23:59 МСК&lt;/strong&gt; включительно (срок продлён на день).&lt;/p&gt;
+&lt;p&gt;Код для голосования был отправлен всем участникам 20/21 февраля (одновременно с &lt;a href=&quot;https://23.twoweeks.ru/posts/09-survey/&quot;&gt;опросом&lt;/a&gt;) на почты, которые были указаны при отправке финальных версий. Если не можете найти - проверяйте папку &amp;quot;спам&amp;quot;. Если нет и там - пишите организатору.&lt;/p&gt;
+&lt;p&gt;Почта организатора – &lt;a href=&quot;mailto:op@gdjams.ru&quot;&gt;op@gdjams.ru&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Результаты опроса</title>
