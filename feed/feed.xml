@@ -5,12 +5,109 @@
 	
 	<link href="https://23.twoweeks.ru/feed/feed.xml" rel="self"/>
 	<link href="https://23.twoweeks.ru"/>
-	<updated>2023-02-25T00:00:00Z</updated>
+	<updated>2023-03-01T00:00:00Z</updated>
 	<id>https://23.twoweeks.ru</id>
 	<author>
 		<name>OP</name>
 		<email>op@gdjams.ru</email>
 	</author>
+	
+	<entry>
+		<title>Итоги конкурса</title>
+		<link href="https://23.twoweeks.ru/posts/11-results/"/>
+		<updated>2023-03-01T00:00:00Z</updated>
+		<id>https://23.twoweeks.ru/posts/11-results/</id>
+		<content type="html">&lt;p&gt;Подведение итогов несколько занянулось, но наконец я готов представить победителей конкурса! Поздравим же их!&lt;/p&gt;
+
+&lt;div style=&quot;margin-top: 1em; text-align:center;&quot;&gt;
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://23.twoweeks.ru/posts/11-results/images/monomyth.jpg&quot; alt=&quot;Monomyth screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;1 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 5em;&quot;&gt;Мономиф: Резонанс&lt;/span&gt;
+
+      &lt;span&gt;28 500 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://23.twoweeks.ru/posts/11-results/images/renaissance.jpg&quot; alt=&quot;Temporal Renaissance screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;2 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 4.75em;&quot;&gt;Temporal Renaissance&lt;/span&gt;
+
+      &lt;span&gt;17 100 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;place&quot;&gt;
+    &lt;picture class=&quot;place__image&quot;&gt;
+      &lt;img src=&quot;https://23.twoweeks.ru/posts/11-results/images/cuboquest.jpg&quot; alt=&quot;CuboQuest screenshot&quot; /&gt;
+    &lt;/picture&gt;
+
+    &lt;div class=&quot;place__text&quot;&gt;
+      &lt;span&gt;3 место&lt;/span&gt;
+
+      &lt;span style=&quot;font-size: 4.5em;&quot;&gt;Кубоквест&lt;/span&gt;
+
+      &lt;span&gt;11 400 рублей&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em;&quot;&gt;
+  &lt;p&gt;Ачивки:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;Deus ex machina&lt;/b&gt; - Where is Agnes? Приз - 2 000 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Релаксация&lt;/b&gt; - Бей по мячам! Приз - 2 000 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Опять в школу!&lt;/b&gt; - Elephant Time. Приз - 1 500 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Новичкам везёт&lt;/b&gt; - Deck of Time: Khrushchyovka. Приз - 1 500 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Человек-оркестр&lt;/b&gt; - Elephant Time. Приз - 1 000 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Тема - мемы&lt;/b&gt; - А в чём фишка?. Приз - 500 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Там русский дух&lt;/b&gt; - Ачивкодрочер. Приз - 500 ₽&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Ачивку &quot;И пронеслась вся жизнь перед глазами&quot;, на мой взгляд, никто взять не смог. Может, в следующий раз!&lt;/p&gt;
+
+  &lt;p&gt;Комьюнити-ачивки:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;Маркетолог от Бога&lt;/b&gt; - Amber Elephant Hotel. Приз - 1 000 ₽&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Games + Demos&lt;/b&gt; - &lt;a href=&quot;https://www.twitch.tv/tryhardxgd&quot;&gt;tryhardxgd&lt;/a&gt; и &lt;a href=&quot;https://www.twitch.tv/kysanya69&quot;&gt;KYSANYA69&lt;/a&gt;. Призы - по 1 000 ₽&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Анонимный спонсор со мной до сих пор не связался. Ждём.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em&quot;&gt;
+  &lt;p&gt;Победителям просьба связаться с организатором конкурса для получения заслуженных наград.&lt;/p&gt;
+
+  &lt;p&gt;Почта организатора: &lt;a href=&quot;mailto:op@gdjams.ru&quot;&gt;op@gdjams.ru&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Все оценки к играм и фидбек, а также отзывы к конкурсу, можно найти на сайте &lt;a href=&quot;https://gdjams.ru/twg23-votes/&quot;&gt;gdjams.ru/twg23-votes/&lt;/a&gt;. Там же доступны и исходные данные, использованные для расчёта итоговых оценок.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr style=&quot;margin: 1em;&quot; /&gt;
+
+&lt;div style=&quot;margin-top: 1em&quot;&gt;
+  &lt;p&gt;Следующий конкурс будет летом 2023 года. Чтобы его не пропустить, следите за новостями в &lt;a href=&quot;https://2ch.hk/gd/&quot;&gt;/gd/&lt;/a&gt;, а также на нашем &lt;a href=&quot;https://discord.gg/FNFnJVCZA9&quot;&gt;сервере в Discord&lt;/a&gt; и &lt;a href=&quot;https://t.me/gdchat&quot;&gt;чате в Telegram&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Всем спасибо за участие!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Голосование началось</title>
