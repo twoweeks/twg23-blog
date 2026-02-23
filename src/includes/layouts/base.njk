@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,6 +12,8 @@
 
     <link rel="alternate" href="{{ metadata.feed.path }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path }}" type="application/json" title="{{ metadata.title }}">
+
+    {% include "./head-ld-json.njk" %}
 
     <link rel="stylesheet" href="{{ '/styles/index.css' | addTimestamp }}">
     <link rel="stylesheet" href="{{ '/styles/main.css' | addTimestamp }}">
